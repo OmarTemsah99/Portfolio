@@ -23,7 +23,7 @@ const HeroSection = () => {
             front-end web development using React, enabling the creation of
             intuitive user interfaces. Proficient in 3D modeling and PCB design,
             I bring a comprehensive approach to product development, from
-            concept to prototype.
+            concept to prototype. {"<"}(￣︶￣){">"}
           </p>
 
           <div className="pt-4 opacity-0 animate-fade-in-delay-4">

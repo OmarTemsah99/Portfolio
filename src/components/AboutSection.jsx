@@ -23,7 +23,7 @@ const AboutSection = () => {
             <p className="text-muted-foreground">
               Driven by a passion for crafting innovative tech solutions, I
               continuously seek new knowledge to enhance my skills, fueling
-              creative problem-solving and effective solutions.
+              creative problem-solving and effective solutions. (•̀ω•́)✧
             </p>
 
             <div className="flex flex-col sm:flex-row gap-4 pt-4 justify-center">
