@@ -25,8 +25,8 @@ const projects = [
       "A responsive website showcasing my projects and skills, built with React, styled using Tailwind CSS, and featuring smooth navigation with React Router.",
     image: "/projects/PersonalPortfolio.png",
     tags: ["React", "Tailwindcss", "React-Router", "JavaScript"],
-    demoUrl: "#",
-    githubUrl: "#",
+    demoUrl: "https://omartemsahportfolio.vercel.app/",
+    githubUrl: "https://github.com/OmarTemsah99/Portfolio",
   },
 
   {
