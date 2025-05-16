@@ -33,7 +33,7 @@ const AboutSection = () => {
               </a>
 
               <a
-                href="https://bit.ly/3GBii8Q"
+                href="https://tinyurl.com/38s4d3mr"
                 className="cosmic-button-hollow"
                 target="_blank"
                 rel="noopener noreferrer">
